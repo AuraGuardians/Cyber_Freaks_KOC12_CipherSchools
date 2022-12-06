@@ -231,16 +231,3 @@ body {
     padding: 8px;
     border-radius: 10px;
 }
-
-/* FOOTER */
-footer {
-    margin-top: 20px;
-    font-size: 12px;
-    width: 100%;
-    height: 50px;
-    color: white;
-    background-color: var(--major-bg-color);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
